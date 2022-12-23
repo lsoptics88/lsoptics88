@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lsoptics88
-- 👀 I’m interested in Radiomics
+- 👀 I’m interested in Radiomics & Python
 - 🌱 I’m currently learning Machine Learning
 
 <!---
